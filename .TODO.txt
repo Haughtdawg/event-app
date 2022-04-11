@@ -1,0 +1,10 @@
+- date/time functionality
+- User authentication?
+- hasura authentication
+- CSS/materialUI
+- typescript usage
+    - https://www.graphql-code-generator.com/plugins/typescript-react-apollo
+    - https://www.graphql-code-generator.com/plugins/typescript-operations
+    - https://stackoverflow.com/questions/62633904/react-apollo-usequery-hook-with-typescript
+    - https://github.com/apollographql/apollo-tooling#apollo-clientcodegen-output
+- tests?
